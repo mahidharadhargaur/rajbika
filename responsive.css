@@ -1,0 +1,14 @@
+@media only screen and (max-width: 425px) {
+	.link-nb{
+		left: 32%;
+	}
+	.last{
+		margin-bottom: 300px;
+	}
+	.navbar-brand{
+		font-size: 2rem;
+	}
+	.carousel-item{
+		height: 200px;
+	}
+}

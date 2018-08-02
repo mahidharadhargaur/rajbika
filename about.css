@@ -1,0 +1,9 @@
+.col{
+	padding: 0 20%;
+}
+.col>p{
+	text-align: justify;
+	font-size: 120%;
+	font-weight: 100;
+	text-indent: 2rem;
+}
