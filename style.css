@@ -4,7 +4,7 @@ html{
 }
 
 body{
-	background: url(images/site-background.jpg);
+	background: url(https://www.dropbox.com/s/ejy85licumfqenu/site-background.jpg?raw=1);
 	/*margin-bottom: 60px;*/
 	padding-top: 80px;
     font-weight: 300;
@@ -92,10 +92,6 @@ a:hover{
 .last{
     margin-bottom: 100px;
 }
-.card-nb{
-    height: 345px;
-}
-
 .link-nb {
     background-color: red;
     color: white;
