@@ -9,6 +9,15 @@ body{
 	padding-top: 80px;
     font-weight: 300;
 }
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Kosugi Maru', sans-serif;
+}
+
+p,a,li{
+    font-family: 'Montserrat', sans-serif;
+}
+
 h3{
     font-weight: 400;
 }
@@ -128,6 +137,19 @@ dl>dt{
     font-weight: 200;
     font-size: 140%;
 }
+
+.my-card{
+    display: grid;
+    position: relative;
+    min-height: 380px;
+}
+.my-link{
+    position: absolute;
+    bottom: 5%;
+    left: 20%;
+    right: 20%;
+}
+
 .footer-ul{
     list-style: none;
     padding: 0;

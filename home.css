@@ -14,9 +14,15 @@ span.carousel-control-prev-icon{
 	margin-top: 100px;
 }
 .card-nb{
-	background-color: #fff6ed;
+	background-color: #dedede5e;
+	transition: all 350ms;
 	box-shadow: 2px 1px 10px #000;
 }
+
+.card-nb:hover{
+	transform: scale(1.09);
+}
+
 .card-nb>h3{
 	font-size: 200%;
 	font-weight: 300;
