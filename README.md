@@ -1,2 +1,2 @@
-# Sinatra
-a simple website template.
+# Raj Bika
+a promotional website template.
